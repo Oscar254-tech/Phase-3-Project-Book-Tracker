@@ -1,6 +1,6 @@
 # Phase-3-Project-Book-Tracker-CLI
 
-## Descrption 
+## Description 
 
 Book Tracker is a command-line interface (CLI) application that helps users manage their personal reading collection. It allows book enthusiasts to track books they want to read, are currently reading, or have completed, while also providing features to rate books, add notes, and view reading statistics.
 This application serves as a digital bookshelf where users can organize their reading journey, maintain reading habits, and get insights into their reading patterns through simple text-based commands.
@@ -34,27 +34,29 @@ This application serves as a digital bookshelf where users can organize their re
 
  ## Getting Started
 
- 1. **Clone the repository**
+ 1. Clone the repository
   
   ```bash
   git clone https://github.com/Oscar254-tech/Phase-3-Project-Book-Tracker.git
 
-2. **Install dependencies**
+2. Install dependencies
 
   ```bash
   pipenv install
 
-3. **Run the application**
+3. Run the application
    
   ```bash
   python lib/cli.py
 
 ## Author
 
-**Oscar Ochanda**  
+Oscar Ochanda 
+
+## Contact
+
 Email: [oscarochanda@gmail.com]
 
 ## License
 
-**MIT License**  
 MIT
