@@ -1,0 +1,16 @@
+# Pipfile
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+# No SQLAlchemy - using custom ORM with sqlite3
+
+[dev-packages]
+ipdb = "*"
+pytest = "*"
+pytest-mock = "*"
+
+[requires]
+python_version = "3.9"  # Make sure this says 3.9, not 3.8
